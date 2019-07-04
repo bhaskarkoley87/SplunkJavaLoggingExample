@@ -1,1 +1,1 @@
-# SplunkJavaLoggingExample
+# Splunk Java Logging Example
